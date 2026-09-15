@@ -27,7 +27,7 @@ The official Ministry file (`statistique_2024-25_VF.xlsx`) does **not** contain 
 
 - Python 3
 - pandas
-
+- Matplotlib 
 ## Project Structure
 
 ```
