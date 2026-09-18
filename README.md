@@ -80,7 +80,11 @@ OVERCROWDED CATEGORIES (HIGH PRIORITY):
 
 Public collégial classrooms average **42 students per room** — the highest pressure point in the whole system, while private-sector classrooms across all levels stay under 20 students per room.
 
-![Students per classroom by category](data/status_chart.png)
+![Students per classroom by category](school-resource-optimizer/data/status_chart.png)
+
+## Demo Video
+ 
+[Watch the demo video](https://youtu.be/SONB3Qcx4kU?si=MWbkexkgmfOHwX5c)
 
 ## Visualization
 
